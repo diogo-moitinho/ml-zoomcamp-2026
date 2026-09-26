@@ -4,9 +4,7 @@
 
 ### Homework 1: Introduction to Machine Learning
 
-
 Questions
-Answer the questions below to complete your homework.
 
 1. Pandas version (1 point)
 2.3.3
